@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Admin","h":"","u":""},{"l":"AdminRegister","h":"","u":""},{"l":"Login","h":"","u":""},{"l":"Login_Register","h":"","u":""},{"l":"Register","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]

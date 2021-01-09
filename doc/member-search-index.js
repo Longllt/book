@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"Admin()","h":"","u":"%3Cinit%3E()"},{"l":"init()","h":"","u":""},{"l":"Login()","h":"","u":"%3Cinit%3E()"},{"l":"login(Admin)","h":"","u":"login(book.Admin)"},{"l":"main(String[])","h":"","u":"main(java.lang.String[])"},{"l":"Register()","h":"","u":"%3Cinit%3E()"}]
